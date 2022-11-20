@@ -1,0 +1,127 @@
+
+.ro1{
+    height:20%;
+}
+.today{
+    background-color:springgreen;
+    padding: 1%;
+    text-align: center;
+    font-size: 130%;
+    color: white;
+}
+.form-control{
+    padding: 2%;
+    width: 70%;
+    float: left;
+    margin-top: 1.5%;
+    margin-left: 20%;
+}
+.search{
+    background-color:red;
+    padding: 3%;
+    margin-top: 1.5%;
+
+    border-radius: 5px 5px 5px 5px;
+   
+}
+.you{
+    color: white;
+    background-color: black;
+    font-size: 110%;
+    padding: 1%;
+    
+}
+.use{
+    margin-left: 20%;
+
+}
+.con{
+    background-color: red;
+    padding:1%;
+    text-align: center;
+    color: white;
+    font-size: 130%;
+}
+.ro2{
+    height: 40%;
+    background-color:white;
+    
+}
+.photo{
+    height: 100%;
+    width: 50%;
+    margin-left: 25%;
+}
+.Eve{
+    color: black;
+    font-size: 130%;
+    margin-top: 10%;
+    text-align: center;
+}
+.sto{
+    margin-top: 6%;
+    padding-left: 15%;
+    font-size: 100%;
+}
+.food{
+    background-color: aquamarine;
+    height:50%;
+}
+.name{
+    margin-left: 25px;
+    font-size: 15px;
+}
+.khira{
+   
+    width:115%;
+    padding:0%;
+}
+
+hr{
+    margin-top:7px;
+    margin-bottom: 7px;
+}
+.food1{
+    height: 100%;
+    width: 100%;
+    padding-top: 20%;
+    
+    box-shadow: 10px 10px 10px black;
+
+    
+}
+.card{
+    height:100%;
+    width: 100%;
+    padding: 0%;
+}
+.pro{
+    height:100%;
+    width: 100%;
+    padding: 0%;
+    padding-top: 10px;
+    
+
+    float: left;
+}
+.fa-check{
+    color: green;
+    
+}
+h3{
+    color: white;
+}
+.pa{
+    color:#d1cdcd;
+    font-size: 90%;
+    
+   
+}
+.nana{
+    height: 10%;
+    width: 100%;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid black;
+    
+    
+}
